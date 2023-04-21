@@ -1,7 +1,7 @@
 const testimonials = [
   {
     name: "Benish",
-    imgUrl: "images/benish.jpg",
+    imgUrl: "images/benish.JPG",
     text: `Since I invested in Sony I made over 100,000 dollars profits. 
         Sony is worth much more than I paid. Sony is the real deal!`,
   },
@@ -12,7 +12,7 @@ const testimonials = [
   },
   {
     name: "Bijendra",
-    imgUrl: "images/bijendra.jpg",
+    imgUrl: "images/bijendra.JPG",
     text: `Buy this now. We can't understand how we've been living without Sony. Great job, I will definitely be ordering again! 
         Man, this thing is getting better and better as I learn more about it.`,
   },
